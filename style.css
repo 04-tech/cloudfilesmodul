@@ -1,0 +1,54 @@
+.module{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.module1{
+    width:auto;
+    height:100%;
+    /* margin-left: 50px; */
+    box-shadow: 1px 1px 3px 3px rgb(135, 135, 204);
+    padding: 10px;
+}
+p{
+    font-size: 20px;
+    width: 100px;
+}
+.maindiv{
+    width:600px;
+}
+h1{
+    color: blue;
+    
+}
+h1:hover{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    color: red;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#btn:hover{
+    cursor: pointer;
+}
+#btn{
+    display:none;
+}
+.hidden{
+   display: none;
+}
+  #main{
+      display: block;
+  }
+  #textarea,#nametext{
+      display: none;
+  }
+  
